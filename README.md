@@ -2,6 +2,8 @@
 
 Ini adalah program mini game yang merepresentasikan suten (suit) yang biasanya dilakukan oleh anak-anak saat bermain. Dalam program ini, lawan dari user adalah bot.
 
+![ss](Screenshot%20from%202022-06-20%2019-53-39.png)
+
 ## <b>About Me</b>
 
 I'm a student at Del Institute of Technology. <br>
